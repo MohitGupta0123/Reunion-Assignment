@@ -7,15 +7,19 @@ Steps:
 3. Then run the file using terminal in VS Code using python script - python <path-to-Database_Creation.py-file>.
 4. Database gets created now.
 
-## Database Tables Images
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
+### Database Tables Images
+![alt text](src/Database1.png)
+![alt text](src/Database2.png)
 
 ## Problem 2 Solution
 Steps:
 1. Open Reunion_Assignment.sql file in the SSMS SQL application.
 2. Run the SQL Scripts now and get the outputs.
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
-![alt text](http://url/to/img.png)
+### Query 1
+![alt text](src/Q1.png)
+### Query 2
+![alt text](src/Q2.png)
+### Query 3
+![alt text](src/Q3.png)
+### Query 4
+![alt text](src/Q4.png)
