@@ -23,3 +23,6 @@ Steps:
 ![alt text](src/Q3.png)
 ### Query 4
 ![alt text](src/Q4.png)
+
+
+# This ASSIGNMENT is not complete because I am having my end term examination tomorrow. But I tried to complete this assignment as much I can If it is possible that the deadline of this assignment can be increased by 2 days then I can try other Problems also. Due to lack of time I was not able to solve all the problems. I had solved the problem 1 and 2.
