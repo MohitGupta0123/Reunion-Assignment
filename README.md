@@ -8,7 +8,8 @@ Steps:
 4. Database gets created now.
 
 ## Database Tables Images
-
+![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
 
 ## Problem 2 Solution
 Steps:
