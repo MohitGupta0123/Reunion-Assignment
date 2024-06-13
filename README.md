@@ -7,6 +7,9 @@ Steps:
 3. Then run the file using terminal in VS Code using python script - python <path-to-Database_Creation.py-file>.
 4. Database gets created now.
 
+## Database Tables Images
+
+
 ## Problem 2 Solution
 Steps:
 1. Open Reunion_Assignment.sql file in the SSMS SQL application.
