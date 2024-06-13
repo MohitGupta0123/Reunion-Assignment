@@ -15,3 +15,7 @@ Steps:
 Steps:
 1. Open Reunion_Assignment.sql file in the SSMS SQL application.
 2. Run the SQL Scripts now and get the outputs.
+![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
+![alt text](http://url/to/img.png)
