@@ -31,8 +31,8 @@ Steps:
 Steps:
 1. Open json_to_table.sql file in the SSMS SQL application.
 2. Run the SQL Scripts now and get the outputs as shown in image.
-### Query 1
-![alt text](src\image.png)
+### Data Table
+![alt text](src/image.png)
 
 
 in this repo python file and notebook file both are added.
