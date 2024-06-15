@@ -1,3 +1,5 @@
+-- PROBLEM 2 SOLUTION
+
 Select * from [Ecomerce_Sales].[dbo].Customer
 Select * from [Ecomerce_Sales].[dbo].[Order]
 Select * from [Ecomerce_Sales].[dbo].OrderItem

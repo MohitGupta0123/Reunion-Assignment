@@ -24,6 +24,13 @@ Steps:
 ### Query 4
 ![alt text](src/Q4.png)
 
+## Problem 3 Solution  -- Partially Solved
+Steps:
+1. Open json_to_table.sql file in the SSMS SQL application.
+2. Run the SQL Scripts now and get the outputs as shown in image.
+### Query 1
+![alt text](src\image.png)
+
+
 in this repo python file and notebook file both are added.
 
-# This ASSIGNMENT is not complete because I am having my end term examination tomorrow. But I tried to complete this assignment as much I can If it is possible that the deadline of this assignment can be increased by 2 days then I can try other Problems also. Due to lack of time I was not able to solve all the problems. I had solved the problem 1 and 2.
