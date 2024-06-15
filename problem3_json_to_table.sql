@@ -4,7 +4,7 @@ Declare @json_table varchar(max)
 
 select @json_table = bulkColumn
 from openrowset(bulk
-'C:\Users\mgmoh\Desktop\json.json', single_clob)T
+'json.json', single_clob)T      -- add path to json file
 
 select 
 ROW_NUMBER() OVER (ORDER BY (SELECT NULL)) AS SerialNo,
