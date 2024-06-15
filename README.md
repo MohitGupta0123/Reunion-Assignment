@@ -7,7 +7,7 @@ Steps:
 3. Then run the file using terminal in VS Code using python script - python <path-to-Database_Creation.py-file>.
 4. Database gets created now.
 
-## Database Struature
+## Database Struature (ER Diagram)
 ![alt text](src/DatabaseDiagram.png)
 
 ### Database Tables Images
